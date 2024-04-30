@@ -15,7 +15,7 @@ Create a fictitious organization facing challenges related to the future of work
 
 1. Understand Stakeholder Needs: Conduct research to identify the needs and pain points of stakeholders within the organization. This information will be used to develop a reflective and compelling business case that outlines the problem and the proposed solution.
 
-2. Select Vendor/Tool: Based on the identified needs, students will select an appropriate vendor or existing tool from the market that aligns with the requirements of the organization. Document the approach taken to make this selection, including factors such as functionality, cost, scalability, and user experience.
+2. Select Vendor/Tool: Based on the identified needs, select an appropriate vendor or existing tool from the market that aligns with the requirements of the organization. Document the approach taken to make this selection, including factors such as functionality, cost, scalability, and user experience.
 
 3. Create Project Plan and Timeline: Using project management principles, create a detailed project plan and timeline for the implementation of the new system. This plan will articulate the considerations made in the process, including resource allocation, risk management, and stakeholder communication.
 
