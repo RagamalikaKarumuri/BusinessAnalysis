@@ -1,6 +1,4 @@
-# BusinessAnalysis
-
-# Project: Future of Work System Implementation
+# BusinessAnalysis Project: Future of Work System Implementation
 
 ## Overview
 
