@@ -1,6 +1,6 @@
 # BusinessAnalysis
 
-# Group Project: Future of Work System Implementation
+# Project: Future of Work System Implementation
 
 ## Overview
 
